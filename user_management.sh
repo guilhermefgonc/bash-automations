@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# the IP of the servers are in inventory.txt
+# the IP of the servers are in inventory.txt (you need to creat)
 servers=$(cat inventory.txt)
 
 # read the username and userid
