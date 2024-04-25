@@ -1,6 +1,6 @@
 # Bash Automation Scripts
 
-This repository contains 3 Bash scripts that automate some tasks. These scripts were created as part of a study of Bash scripting.
+This repository contains 3 Bash scripts that automate some tasks. These scripts were created as part of a study about Bash scripting.
 
 ## Scripts:
 
